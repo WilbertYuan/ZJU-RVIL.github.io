@@ -18,6 +18,7 @@ sections:
           - Undergraduate Students
           - Visitors
           - Robots
+          - expert
       sort_by: Params.last_name
       sort_ascending: true
     design:
